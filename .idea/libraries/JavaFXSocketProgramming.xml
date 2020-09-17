@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaFXSocketProgramming">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/JavaFXSocketProgramming.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
